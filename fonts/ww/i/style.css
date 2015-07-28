@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'ww';
+	src: url('webfont.eot');
+	src: url('webfont.eot?#iefix') format('embedded-opentype'),
+		url('webfont.woff2') format('woff2'),
+		url('webfont.woff') format('woff'),
+		url('webfont.ttf') format('truetype'),
+		url('webfont.svg#ww') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
